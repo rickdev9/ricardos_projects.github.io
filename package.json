@@ -1,0 +1,29 @@
+{
+  "name": "ricardos_projects.github.io",
+  "version": "1.0.0",
+  "description": "ricardosProjects",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ricardos_projects.github.io"
+  },
+  "keywords": [
+    "ricardos",
+    "projects",
+    "github",
+    "page",
+    "website",
+    "Self"
+  ],
+  "author": "Hernan Ricardo Cruz Guerra",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "5.1.3",
+    "lite-server": "^2.6.1"
+  }
+}
